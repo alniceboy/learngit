@@ -8,3 +8,4 @@ Creating a new branch is quick and simple.
 =======
 Creating a ner branch is quick AND simple.
 >>>>>>> features
+Add merge --no ff.

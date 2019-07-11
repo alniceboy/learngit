@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Create a new branch is so easy.
 Have a try.
+Creating a ner branch is quick AND simple.
